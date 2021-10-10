@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bearpoohcf
+- I’m interested in programming
+- I’m currently learning algorithms
